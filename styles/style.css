@@ -54,7 +54,7 @@ ol {
   display: flex;
   align-items: end;
   gap: 30px;
-  inline-size: 1140px;
+  min-width: 1140px;
 }
 
 .button {
