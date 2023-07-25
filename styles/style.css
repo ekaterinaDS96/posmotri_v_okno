@@ -94,7 +94,8 @@ ol {
 
 .more-button
 {
-  padding: 6px 142px;
+  inline-size: 399px;
+  block-size: 34px;
 }
 
 .search-form {
@@ -134,7 +135,7 @@ ol {
   border-top: 1px solid #ffffff;
   border-bottom: 1px solid #ffffff;
   color:inherit;
-  font-family: inherit;
+  font-family: Fira Sans Condensed, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -219,7 +220,7 @@ ol {
 }
 
 .content__list {
-  overflow: auto;
+  overflow: hidden auto;
   block-size: 298px;
   position: relative;
 }
